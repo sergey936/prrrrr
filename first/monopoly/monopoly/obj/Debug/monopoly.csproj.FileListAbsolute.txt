@@ -1,0 +1,10 @@
+C:\Users\ssusl\source\repos\monopoly\monopoly\bin\Debug\monopoly.exe.config
+C:\Users\ssusl\source\repos\monopoly\monopoly\bin\Debug\monopoly.exe
+C:\Users\ssusl\source\repos\monopoly\monopoly\bin\Debug\monopoly.pdb
+C:\Users\ssusl\source\repos\monopoly\monopoly\obj\Debug\monopoly.csproj.AssemblyReference.cache
+C:\Users\ssusl\source\repos\monopoly\monopoly\obj\Debug\monopoly.Form1.resources
+C:\Users\ssusl\source\repos\monopoly\monopoly\obj\Debug\monopoly.Properties.Resources.resources
+C:\Users\ssusl\source\repos\monopoly\monopoly\obj\Debug\monopoly.csproj.GenerateResource.cache
+C:\Users\ssusl\source\repos\monopoly\monopoly\obj\Debug\monopoly.csproj.CoreCompileInputs.cache
+C:\Users\ssusl\source\repos\monopoly\monopoly\obj\Debug\monopoly.exe
+C:\Users\ssusl\source\repos\monopoly\monopoly\obj\Debug\monopoly.pdb
