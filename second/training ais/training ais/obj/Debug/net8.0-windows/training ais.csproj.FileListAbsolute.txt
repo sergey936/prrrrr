@@ -1,0 +1,39 @@
+C:\Users\ssusl\source\repos\training ais\training ais\obj\Debug\net8.0-windows\training ais.csproj.AssemblyReference.cache
+C:\Users\ssusl\source\repos\training ais\training ais\obj\Debug\net8.0-windows\training_ais.Form1.resources
+C:\Users\ssusl\source\repos\training ais\training ais\obj\Debug\net8.0-windows\training ais.csproj.GenerateResource.cache
+C:\Users\ssusl\source\repos\training ais\training ais\obj\Debug\net8.0-windows\training ais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssusl\source\repos\training ais\training ais\obj\Debug\net8.0-windows\training ais.AssemblyInfoInputs.cache
+C:\Users\ssusl\source\repos\training ais\training ais\obj\Debug\net8.0-windows\training ais.AssemblyInfo.cs
+C:\Users\ssusl\source\repos\training ais\training ais\obj\Debug\net8.0-windows\training ais.csproj.CoreCompileInputs.cache
+C:\Users\ssusl\source\repos\training ais\training ais\bin\Debug\net8.0-windows\training ais.exe
+C:\Users\ssusl\source\repos\training ais\training ais\bin\Debug\net8.0-windows\training ais.deps.json
+C:\Users\ssusl\source\repos\training ais\training ais\bin\Debug\net8.0-windows\training ais.runtimeconfig.json
+C:\Users\ssusl\source\repos\training ais\training ais\bin\Debug\net8.0-windows\training ais.dll
+C:\Users\ssusl\source\repos\training ais\training ais\bin\Debug\net8.0-windows\training ais.pdb
+C:\Users\ssusl\source\repos\training ais\training ais\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\ssusl\source\repos\training ais\training ais\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\ssusl\source\repos\training ais\training ais\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\ssusl\source\repos\training ais\training ais\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ssusl\source\repos\training ais\training ais\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\ssusl\source\repos\training ais\training ais\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ssusl\source\repos\training ais\training ais\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ssusl\source\repos\training ais\training ais\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ssusl\source\repos\training ais\training ais\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\ssusl\source\repos\training ais\training ais\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\ssusl\source\repos\training ais\training ais\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\ssusl\source\repos\training ais\training ais\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\ssusl\source\repos\training ais\training ais\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ssusl\source\repos\training ais\training ais\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ssusl\source\repos\training ais\training ais\obj\Debug\net8.0-windows\training.368989C7.Up2Date
+C:\Users\ssusl\source\repos\training ais\training ais\obj\Debug\net8.0-windows\training ais.dll
+C:\Users\ssusl\source\repos\training ais\training ais\obj\Debug\net8.0-windows\refint\training ais.dll
+C:\Users\ssusl\source\repos\training ais\training ais\obj\Debug\net8.0-windows\training ais.pdb
+C:\Users\ssusl\source\repos\training ais\training ais\obj\Debug\net8.0-windows\training ais.genruntimeconfig.cache
+C:\Users\ssusl\source\repos\training ais\training ais\obj\Debug\net8.0-windows\ref\training ais.dll
+C:\Users\ssusl\source\repos\training ais\training ais\obj\Debug\net8.0-windows\training_ais.MainForm.resources
+C:\Users\ssusl\source\repos\training ais\training ais\obj\Debug\net8.0-windows\training_ais.RegistrationForm.resources
+C:\Users\ssusl\source\repos\training ais\training ais\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\ssusl\source\repos\training ais\training ais\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\ssusl\source\repos\training ais\training ais\obj\Debug\net8.0-windows\training_ais.AddTrainingForm.resources
+C:\Users\ssusl\source\repos\training ais\training ais\obj\Debug\net8.0-windows\training_ais.AddExerciseForm.resources
+C:\Users\ssusl\source\repos\training ais\training ais\obj\Debug\net8.0-windows\training_ais.ManageUsersForm.resources
